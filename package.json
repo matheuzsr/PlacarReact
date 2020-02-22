@@ -13,12 +13,12 @@
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "webpack": "^2.2.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.3.0"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --history-api-fallback --content-base public"
   },
-  "author": "Vinicius Vinhas",
+  "author": "Matheus Rocha",
   "license": "MIT"
 }
